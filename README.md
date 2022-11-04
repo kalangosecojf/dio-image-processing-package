@@ -1,7 +1,7 @@
 # Projeto DIO: Pacote de Processamento de Imagens em Python
 
 ### Autora: Karina Kato
-### Disponível em: https://pypi.org/project/wallet-python-pacotes-imagens/
+### Disponível em: https://pypi.org/project/dos-image-processing/
 ### Repositório de exemplos do template: https://github.com/tiemi/
 
 ---
